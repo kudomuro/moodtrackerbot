@@ -1,0 +1,1 @@
+CREATE TABLE moods (date TEXT NOT NULL, time TEXT NOT NULL, mood TEXT, energy TEXT, event TEXT, PRIMARY KEY (date, time));
